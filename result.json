@@ -1,0 +1,24 @@
+{
+  "@id" : "http://unibonn.eis.de/twitter/search_results#601762362",
+  "@type" : [ "foaf:Agent", "foaf:Person" ],
+  "foaf:accountName" : "AsgarJavadov",
+  "foaf:depiction" : {
+    "@id" : "http://pbs.twimg.com/profile_images/378800000085898864/88c86b75aa862bc5bdafc0e2b61cfc3f_normal.jpeg"
+  },
+  "foaf:homepage" : {
+    "@id" : "http://t.co/FG00eRBSCS"
+  },
+  "foaf:name" : "Asgar Javadov",
+  "foaf:nick" : "AsgarJavadov",
+  "@context" : {
+    "rdfs" : "http://www.w3.org/2000/01/rdf-schema#",
+    "prov" : "http://www.w3.org/ns/prov#",
+    "foaf" : "http://xmlns.com/foaf/0.1/",
+    "xsd" : "http://www.w3.org/2001/XMLSchema#",
+    "owl" : "http://www.w3.org/2002/07/owl#",
+    "rdf" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "fuhsen" : "http://unibonn.eis.de/fuhsen/common_entities#",
+    "omv" : "http://omv.ontoware.org/2005/05/ontology#",
+    "gr" : "http://purl.org/goodrelations/v1#"
+  }
+}
